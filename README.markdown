@@ -13,7 +13,6 @@ The project leverages asynchronous programming for efficient API calls, pandas f
 - [Usage](#usage)
 - [Output Table](#output-table)
 - [Project Structure](#project-structure)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
